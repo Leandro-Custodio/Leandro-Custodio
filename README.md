@@ -10,8 +10,6 @@ check out [Leandro-Linkedin.github.io](https://www.linkedin.com/in/leandro-artur
 
 
 
-
-
 <!-- EXEMPLO
 **Leandro-Custodio/Leandro-Custodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
