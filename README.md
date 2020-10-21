@@ -1,7 +1,8 @@
 ### Hi there 👋
 Hi. I’m Leandro. I am a Enginner from Brazil 🇧🇷.
 
-I work at [Shawee](https://grupoeuax.com.br/) as a Web Developer Jr. For more information about me, ()
+I work at [Shawee](https://grupoeuax.com.br/) as a Web Developer Jr. For more information about me,}
+check out [Leandro-Linkedin.github.io](https://www.linkedin.com/in/leandro-artur-custodio-27b196151/).
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Leandro-Custodio)](https://www.linkedin.com/in/leandro-artur-custodio-27b196151/)
 [![Followers](https://img.shields.io/github/followers/Leandro-Custodio?style=social)](https://github.com/Leandro-Custodio)
